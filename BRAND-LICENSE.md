@@ -1,14 +1,13 @@
-# HyperPi-Ai Brand License Notice
+# Brand License (Compatibility Notice)
 
-This document is retained for compatibility with existing links.
+This file is kept to support older links and references.
 
-For current binding terms, see:
-- [`LICENSE`](./LICENSE)
-- [`ASSET_LICENSE.md`](./ASSET_LICENSE.md)
-- [`TRADEMARKS.md`](./TRADEMARKS.md)
-- [`NOTICE.md`](./NOTICE.md)
+For active, binding terms, use:
+- [ASSET_LICENSE.md](./ASSET_LICENSE.md)
+- [TRADEMARKS.md](./TRADEMARKS.md)
+- [LICENSE](./LICENSE)
 
 HyperPi-Ai and Hyperπ-Ai refer to the same organization and brand origin.
-All brand assets remain proprietary unless explicit written permission is granted.
+All logo, SVG, and brand-design rights remain proprietary unless written permission is granted.
 
 Contact: **legal@hyperpiai.com**

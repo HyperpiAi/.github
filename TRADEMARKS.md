@@ -1,7 +1,7 @@
 # TRADEMARKS
 
 HyperPi-Ai and Hyperπ-Ai are claimed marks of the same organization.
-All associated logos, stylizations, and visual identity elements are protected.
+All associated logos, stylizations, and visual identity elements are protected and controlled by HyperPi-Ai and its founder.
 
 ## Trademark Usage Rule
 No trademark license is granted by default.
