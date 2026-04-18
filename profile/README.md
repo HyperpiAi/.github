@@ -11,8 +11,8 @@
 
 <br/>
 
-[![License: MIT](https://img.shields.io/badge/Code_License-MIT-white?style=flat-square&logo=opensourceinitiative&logoColor=black)](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE)
-[![Brand](https://img.shields.io/badge/Brand_Assets-Protected-red?style=flat-square&logo=shieldsdotio&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-black?style=flat-square&logo=scale&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE)
+[![Brand](https://img.shields.io/badge/Brand_Assets-Protected-red?style=flat-square&logo=shieldsdotio&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md)
 [![Status](https://img.shields.io/badge/Status-Active_Research-brightgreen?style=flat-square)](https://github.com/HyperPi-Ai)
 [![Models](https://img.shields.io/badge/Models-Private_%2F_Coming_Soon-blueviolet?style=flat-square)](https://github.com/HyperPi-Ai)
 
@@ -71,7 +71,7 @@ Designing the infrastructure, tooling, and pipelines that make intelligent syste
 
 ## Our Models
 
-> All HyperPπ-Ai foundation models are currently **private and in active development.**  
+> All Hyperπ-Ai foundation models are currently **private and in active development.**
 > Public releases, APIs, and documentation will be announced here when models go live.
 
 | Model | Domain | Status |
@@ -116,14 +116,14 @@ When a model ships, a product goes live, or a paper drops — **this profile is 
 
 ## Licensing
 
-| Asset | License |
+| Asset | Terms |
 |:--|:--|
-| Code in public repositories | [MIT License](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE) — free to use, modify, distribute |
-| Logo, name, brand assets | [Brand License](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) — all rights reserved, modification prohibited |
-| README content & copy | [Brand License](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) — reproduction prohibited |
-| Model weights & datasets | Proprietary — not publicly licensed |
+| Repository content (default) | [Proprietary License](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE) — all rights reserved unless a separate explicit written license is provided |
+| Logos, SVGs, and brand design | [Asset License](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md) — official company logo and brand assets are protected; no reuse, edits, derivatives, or redistribution without written permission |
+| Names and marks (HyperPi-Ai / Hyperπ-Ai) | [Trademark Policy](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md) — no brand use, handles, domains, or implied affiliation without written authorization |
 
-> The MIT license covers **code only**. Brand assets, the logo, the name, and this profile's content are separately protected. See [`BRAND-LICENSE.md`](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) for full terms and enforcement policy.
+> HyperPi-Ai and Hyperπ-Ai refer to the same organization and legal brand origin. Enforcement may proceed through U.S. and Indian legal channels, including GitHub DMCA/trademark processes.
+
 
 <br/>
 
@@ -135,6 +135,6 @@ When a model ships, a product goes live, or a paper drops — **this profile is 
 
 <br/>
 
-*© 2026 Hyperπ-Ai — Brand assets protected. See [BRAND-LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md)*
+*© 2026 Hyperπ-Ai — Proprietary rights reserved. See [LICENSE](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE), [ASSET_LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md), and [TRADEMARKS.md](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md).*
 
 </div>
