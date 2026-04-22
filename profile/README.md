@@ -9,7 +9,7 @@
 
 **Precision That Thinks**
 
-`Official name: Kyn AI` · `Official username: KynAI`
+
 
 `Official name: Kyn AI` · `Official username: KynAI`
 
