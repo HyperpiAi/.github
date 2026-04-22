@@ -79,7 +79,7 @@ We believe durable AI progress comes from disciplined research and uncompromisin
 
 > Kyn AI is the official brand name for this organization. Rights may be enforced through applicable U.S. and Indian legal channels, including GitHub DMCA/trademark mechanisms.
 
-Permission and legal contact: **legal@hyperpiai.com**
+Permission and legal contact: **getkynai@gmail.com**
 
 <br/>
 
