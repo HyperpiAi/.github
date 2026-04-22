@@ -17,3 +17,6 @@ Unauthorized use may be enforced through GitHub trademark reporting and other
 available U.S. and Indian legal channels.
 
 Contact: **legal@hyperpiai.com**
+
+
+Official username: **HyperpiAi**

@@ -9,6 +9,8 @@
 
 **Precision That Thinks**
 
+`Official username: HyperpiAi`
+
 <br/>
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-black?style=flat-square&logo=scale&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE)

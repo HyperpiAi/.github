@@ -11,3 +11,6 @@ HyperPi-Ai and Hyperπ-Ai refer to the same organization and brand origin.
 All logo, SVG, and brand-design rights remain proprietary unless written permission is granted.
 
 Contact: **legal@hyperpiai.com**
+
+
+Official username: **HyperpiAi**

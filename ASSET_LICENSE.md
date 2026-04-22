@@ -38,3 +38,6 @@ Only HyperPi-Ai and affiliates with explicit written authorization may modify or
 ## 6) Permission Contact
 To request a written asset license:
 **legal@hyperpiai.com**
+
+
+Official username: **HyperpiAi**
